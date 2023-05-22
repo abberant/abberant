@@ -1,6 +1,6 @@
 <center><h1 style="font-size: 30px;">Hello World?</h></center>
 
+https://i.pinimg.com/originals/e9/0e/6c/e90e6ced05e7e96a17cf66866b4031cd.gifhttps://i.pinimg.com/originals/e9/0e/6c/e90e6ced05e7e96a17cf66866b4031cd.gif
 
 [![aberrant's GitHub | Languages Over Time](https://stats.quine.sh/aberrant/languages-over-time?theme=dark)](https://quine.sh)
 
-   [![aberrant's GitHub | Stats](https://stats.quine.sh/aberrant/github?theme=dark)](https://quine.sh)
