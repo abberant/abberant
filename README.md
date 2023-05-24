@@ -8,7 +8,7 @@
   
  </div>
 
-<br />
+<!-- <br />
 <br />
 
 <div align="center">
@@ -24,5 +24,5 @@
   
   <img src ="https://stats.quine.sh/aberrant/github?theme=dark" />
   
- </div>
+ </div> -->
 
