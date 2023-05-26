@@ -1,4 +1,4 @@
-<center><h1 style="font-size: 40px;">Greetings, scholar!</h></center>
+<center><h1 style="font-size: 40px;">Greetings, scholar!</h1></center>
 
 <!-- <br />
 
@@ -11,17 +11,35 @@
 <br />
 <br />
 
+<p>
+  <img src="https://i.pinimg.com/originals/d3/1f/8d/d31f8d9771b1a3c9d4f92d4440bda533.gif" align="right" style="width: 250px; height: 250px;">
+<h4><br />Same as thou I am, a UM6P 1337 scholar, from the farlands of Benguerir;<br />
+  seeking knowlegde though a misguided soul, gathering smithereeens of computoral wisdom is a pastime.<br /><br /> Albeit the journey not yet done, for the scattering of knowledge is unending, and the mind is naught but a vessel for it.<br />Fret not wise one, as the flickering of lore throughout all steads is surging, canst thou see?</h4>
+  </p>
 
-<p><span>Same as thou I am, a UM6P 1337 scholar, from the farlands of Benguerir;</span>
-  <img src="https://i.pinimg.com/originals/d3/1f/8d/d31f8d9771b1a3c9d4f92d4440bda533.gif" style="width: 150px; height: 150px;"></p>
+<br />
+<br />
+<br />
 
+<div align="center">
+   <h3>Pursue the repositories portion if intrigued, for there I kept thy share of professed labour.<h3>
+</div>
+  
+<br />
 
-<!-- <div>
-  <p style="display: flex;">Same as thou I am, a UM6P 1337 scholar, from the farlands of Benguerir;</p>
-  <img src="https://i.pinimg.com/originals/d3/1f/8d/d31f8d9771b1a3c9d4f92d4440bda533.gif" alt="GIF" style="width: 250px; height: 250px; float: left; margin-right: 10px;">
-</div> -->
+<div align="center">
+  
+  <img src="https://i.pinimg.com/originals/14/10/f2/1410f2eb7fa784be79d33df63ded017f.gif"/>
+  
+ </div>  
+  
+<!-- <br />
 
-<!-- Same as thou I am, a UM6P 1337 scholar, from the farlands of Benguerir; -->
+<div align="center">
+  
+  <img src="https://i.pinimg.com/originals/e9/0e/6c/e90e6ced05e7e96a17cf66866b4031cd.gif"/>
+  
+ </div> -->
 
 <!-- <div align="center">
   
